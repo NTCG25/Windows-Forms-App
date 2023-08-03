@@ -1,0 +1,10 @@
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\bin\Debug\CostEstimator.exe.config
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\bin\Debug\CostEstimator.exe
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\bin\Debug\CostEstimator.pdb
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\obj\Debug\CostEstimator.csproj.AssemblyReference.cache
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\obj\Debug\CostEstimator.Form1.resources
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\obj\Debug\CostEstimator.Properties.Resources.resources
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\obj\Debug\CostEstimator.csproj.GenerateResource.cache
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\obj\Debug\CostEstimator.csproj.CoreCompileInputs.cache
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\obj\Debug\CostEstimator.exe
+C:\Users\throw\Desktop\New folder\CostEstimator\CostEstimator\obj\Debug\CostEstimator.pdb
